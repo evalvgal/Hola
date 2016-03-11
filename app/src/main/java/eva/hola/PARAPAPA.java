@@ -6,4 +6,5 @@ package eva.hola;
 public class PARAPAPA {
 
     private String aaaa;
+    private String eva;
 }
