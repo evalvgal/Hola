@@ -7,4 +7,5 @@ public class PARAPAPA {
 
     private String aaaa;
     private String eva;
+    boolean estoyAlgoPerdido = true; //Con tiempo todo se consigue xD
 }
