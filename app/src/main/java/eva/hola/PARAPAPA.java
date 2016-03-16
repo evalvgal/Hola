@@ -8,5 +8,6 @@ public class PARAPAPA {
     private String aaaa;
     private String eva;
     private String Manolo;
+    private String Joan;
     boolean estoyAlgoPerdido = true; //Con tiempo todo se consigue xD
 }
